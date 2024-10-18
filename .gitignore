@@ -1,5 +1,5 @@
 tmp/
-img/NeuroStartUp.png_backup
+/img/NeuroStartUp.png_backup
 index.html_old
-img/.DS_Store
-img/Thumbs.db
+/img/.DS_Store
+/img/Thumbs.db
