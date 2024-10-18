@@ -4,3 +4,6 @@ index.html_old
 .DS_Store
 /img/.DS_Store
 /img/Thumbs.db
+*html_old
+*png_backup
+*.DS_Store
